@@ -1,2 +1,2 @@
 # BOXVIA
-Bayesian Optimization Excutable and Visualizable Application
+Bayesian Optimization Executable and Visualizable Application
