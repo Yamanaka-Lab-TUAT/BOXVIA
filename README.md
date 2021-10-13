@@ -1,5 +1,5 @@
 # BOXVIA
-## Bayesian Optimization Executable and Visualizable Application
+Bayesian Optimization Executable and Visualizable Application
 
 ## Description
 -
@@ -7,7 +7,7 @@
 ## Download executable application
 -
 
-## Citation 
+## Citation Cancel changes
 -
 
 ## Dependencies 
