@@ -7,7 +7,7 @@ Bayesian Optimization Executable and Visualizable Application
 ## Download executable application
 -
 
-## Citation Cancel changes
+## Citation
 -
 
 ## Dependencies 
