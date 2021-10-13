@@ -19,5 +19,5 @@ Bayesian Optimization Executable and Visualizable Application
 ## License
 BSD License (3-clause BSD License)
 
-## Author
+## Developers' Affiliation
 [Yamanaka Research Group @ TUAT](http://web.tuat.ac.jp/~yamanaka/)
