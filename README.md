@@ -11,8 +11,8 @@ Bayesian Optimization Executable and Visualizable Application
 -
 
 ## Dependencies 
-To launch BOXVIA using its source codes, the following libraries are required. 
-(If you launch BOXVIA using executable file, the dependencies are not necessary.)
+To launch BOXVIA using its source codes, the following libraries are required. <br>
+(If you launch BOXVIA using executable file, the dependencies are not necessary.) <br>
 
 - GPyOpt
 - matplotlib
@@ -21,6 +21,7 @@ To launch BOXVIA using its source codes, the following libraries are required.
 - Dash_bootstrap_components
 
 and these libraries' dependencies
+
 
 You can install the dependencies by:
 ```bash
