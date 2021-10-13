@@ -28,8 +28,14 @@ You can install the dependencies by:
 pip install -r requirements.txt
 ```
 
-## Usage
-- 
+## Getting started
+### For using executable file
+ Start with BOXVIA.exe (or BOXVIA.app for macOS)
+### For running source code
+ Start with
+```bash
+python main.py
+```
 
 ## License
 BSD License (3-clause BSD License)
