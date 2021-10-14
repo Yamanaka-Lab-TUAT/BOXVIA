@@ -1,10 +1,9 @@
 # BOXVIA
-Bayesian Optimization Executable and Visualizable Application
 
-
+Bayesian Optimization Executable and Visualizable Application (BOXVIA) enable you to perform Bayesian optimization and visualize distributions of three functions: the mean function, its standard deviation, and the acquisition function. 
 
 ## Download as executable application
-You can download the executable file for BOXVIA at the [Releases](https://github.com/Yamanaka-Lab-TUAT/BOXVIA/releases).
+You can download executable files for BOXVIA at the [Releases](https://github.com/Yamanaka-Lab-TUAT/BOXVIA/releases).
 
 ## How to start BOXVIA
 ### For using executable file
@@ -32,6 +31,9 @@ You can install the dependencies by:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Usage
+Please refer to our Journal published in the future.
 
 ## License
 BSD License (3-clause BSD License)
