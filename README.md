@@ -26,7 +26,7 @@ Note: If you use executable file, the dependencies are not necessary.) <br>
 - Dash
 - Dash_bootstrap_components
 
-and these libraries' dependencies (e.g. numpy, scipy, etc, but those will usually be installed together if the above libraries are installed via pip.)
+and these libraries' dependencies (those will usually be installed together if the above libraries are installed via pip.)
 
 
 You can install the dependencies by:
