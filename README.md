@@ -6,7 +6,9 @@ You can download executable files for BOXVIA at the [Releases](https://github.co
 
 ## How to start BOXVIA
 ### For using executable file
- Start with "BOXVIA.exe" (or "BOXVIA.app" for macOS, "BOXVIA" for linux).
+Extract the downloaded file and  double-click on "BOXVIA" executable file. <br>
+The name of the executable is "BOXVIA.exe" on windows, "BOXVIA.app" on macOS, and simply "BOXVIA" for linux.
+
 ### For running source code
  Start with
 ```bash
