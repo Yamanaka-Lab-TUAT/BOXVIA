@@ -99,8 +99,7 @@ app.layout = dbc.Container([
     html.P(),
     html.Div('Copyright (c) 2021, BOXVIA Developers'),
     html.Div('All rights reserved.'),
-    html.Div(['Cheif Developer is A. Ishii (', html.A('Yamanaka lab. @TUAT', href='http://web.tuat.ac.jp/~yamanaka/'), ')']),
-    html.Div(['Email address: ', html.A('akmt.ishii@gmail.com', href='mailto:akmt.ishii@gmail.com')]),
+    html.Div(['Cheif Developer: A. Ishii (', html.A('Yamanaka lab. @TUAT', href='http://web.tuat.ac.jp/~yamanaka/'), ')']),
     html.P(),
     ])
 
