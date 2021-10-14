@@ -18,7 +18,7 @@ python main.py
 
 ## Dependencies 
 To start BOXVIA using the source codes, the following libraries are required. <br>
-Note: If you use executable file, the dependencies are not necessary.) <br>
+Note: If you use executable file, the dependencies are not necessary. <br>
 
 - GPyOpt
 - matplotlib
