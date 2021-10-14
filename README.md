@@ -4,7 +4,7 @@ Bayesian Optimization Executable and Visualizable Application
 
 
 ## Download as executable application
-You can download the executable file for BOXVIA at the [Release](https://github.com/Yamanaka-Lab-TUAT/BOXVIA/release) note.
+You can download the executable file for BOXVIA at the [Releases](https://github.com/Yamanaka-Lab-TUAT/BOXVIA/releases).
 
 ## How to start BOXVIA
 ### For using executable file
