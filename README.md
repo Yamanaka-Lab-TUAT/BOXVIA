@@ -7,8 +7,14 @@ Bayesian Optimization Executable and Visualizable Application
 ## Description
 -
 
-## Citation
--
+## How to start BOXVIA
+### For using executable file
+ Start with BOXVIA.exe (or BOXVIA.app for macOS)
+### For running source code
+ Start with
+```bash
+python main.py
+```
 
 ## Dependencies 
 To start BOXVIA using its source codes, the following libraries are required. <br>
@@ -26,15 +32,6 @@ and these libraries' dependencies
 You can install the dependencies by:
 ```bash
 pip install -r requirements.txt
-```
-
-## How to start BOXVIA
-### For using executable file
- Start with BOXVIA.exe (or BOXVIA.app for macOS)
-### For running source code
- Start with
-```bash
-python main.py
 ```
 
 ## License
