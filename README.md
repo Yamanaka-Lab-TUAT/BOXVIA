@@ -33,8 +33,9 @@ pip install -r requirements.txt
 ```
 
 ## Tutorial
-Please see video tutorials uploaded on YouTube.
-[1D function](https://www.youtube.com/watch?v=ljzGmVSf16U), [5D function](https://www.youtube.com/watch?v=merYNmawvkw)
+Please see video tutorials uploaded on YouTube. <br>
+Sample for [1D function](https://www.youtube.com/watch?v=ljzGmVSf16U). <br>
+Sample for[5D function](https://www.youtube.com/watch?v=merYNmawvkw).
 
 ## License
 BSD License (3-clause BSD License)
