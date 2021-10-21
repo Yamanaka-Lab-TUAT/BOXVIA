@@ -279,7 +279,7 @@ layout = dbc.Container([
                                 style={'display': 'inline-block', 'margin-bottom': '3px'},
                                 ),
                       dbc.Tooltip(['Constraints can be defined for the input parameters by entering inequalities.',
-                                   'Multiple constraints can be simultneously defined by indicating multiple lines.'],
+                                   ' Multiple constraints can be simultneously defined by indicating multiple lines.'],
                                   target="constraint-2D_info",
                                   placement='bottom',
                                   ),
