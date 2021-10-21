@@ -124,7 +124,7 @@ def parse_contents(contents, filename, date):
                                                   size='sm',
                                                   id="export_input",
                                                   ),
-                                      dbc.Tooltip('Download this table data as "Input.csv."',
+                                      dbc.Tooltip('Download data in this table.',
                                                   target="export_input",
                                                   placement='top',
                                                   ),
