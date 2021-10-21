@@ -32,8 +32,9 @@ You can install the dependencies by:
 pip install -r requirements.txt
 ```
 
-## Usage
-Please refer to our Journal published in the future.
+## Tutorial
+Please see video tutorials uploaded on YouTube.
+[1D function](https://www.youtube.com/watch?v=ljzGmVSf16U), [5D function](https://www.youtube.com/watch?v=merYNmawvkw)
 
 ## License
 BSD License (3-clause BSD License)
