@@ -1,5 +1,5 @@
-![Title](./src/assets/title.png "Title")
-# 
+![Title](./src/assets/title.png "Title") <br>
+
 Bayesian Optimization Executable and Visualizable Application (BOXVIA) is a GUI-based application for Bayesian optimization. By using BOXVIA, users can perform Bayesian optimization and visualize functions obtained from the optimization process (i.e. mean function, its standard deviation, and acquisition function) without construction of a computing environment and programming skills. BOXVIA offers significant help for incorporating Bayesian optimization into your optimization problem.
 
 ## Download an executable application
