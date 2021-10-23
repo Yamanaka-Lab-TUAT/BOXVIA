@@ -18,7 +18,7 @@ python main.py
 
 ## Dependencies 
 To start BOXVIA using the source codes, the following libraries are required. <br>
-Note: If you use executable file, the dependencies are not necessary. <br>
+If you use executable file, the dependencies are not necessary. <br>
 
 - GPyOpt
 - matplotlib
@@ -31,6 +31,10 @@ You can install the dependencies by:
 ```bash
 pip install -r requirements.txt
 ```
+
+Note: <br>
+GPyOpt installed via pip has a bug in GPyOpt/core/evaluators/batch_local_penalization.py.
+Please replace the code with the bug-fixed code that has been uploaded to the [GPyOpt repository](https://github.com/SheffieldML/GPyOpt).
 
 ## Tutorial
 Please see video tutorials uploaded on YouTube. <br>
