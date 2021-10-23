@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 Note: <br>
-GPyOpt installed via pip has a bug in GPyOpt/core/evaluators/batch_local_penalization.py.
+GPyOpt installed via pip has a bug in GPyOpt/core/evaluators/batch_local_penalization.py. <br>
 Please replace the code with the bug-fixed code that has been uploaded to the [GPyOpt repository](https://github.com/SheffieldML/GPyOpt).
 
 ## Tutorial
