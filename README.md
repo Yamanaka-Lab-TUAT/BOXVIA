@@ -24,7 +24,7 @@ If you use executable file, the dependencies are not necessary. <br>
 - matplotlib
 - pandas
 - Dash
-- Dash_bootstrap_components
+- Dash_bootstrap_components (v0.13.1)
 
 
 You can install the dependencies by:
