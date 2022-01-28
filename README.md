@@ -33,13 +33,15 @@ pip install -r requirements.txt
 ```
 <br>
 Note: <br>
-If you use BOXVIA by starting from the source code,  <br>
-the following two codes of [GPyOpt](https://github.com/SheffieldML/GPyOpt) need to be modified. <br>
+
+If you use BOXVIA by starting from the source code, the following two codes of
+[GPyOpt](https://github.com/SheffieldML/GPyOpt) need to be modified. <br>
 
 - GPyOpt/core/bo.py
 - GPyOpt/core/evaluators/batch_local_penalization.py
 
 Please replace these codes with the codes contained in src/GPyOpt_modified in this repository.
+
 
 ## Tutorial
 Please see video tutorials uploaded on YouTube. <br>
