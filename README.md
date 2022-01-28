@@ -17,24 +17,29 @@ python main.py
 ```
 
 ## Dependencies 
-To start BOXVIA using the source codes, the following libraries are required. <br>
-If you use executable file, the dependencies are not necessary. <br>
+To start BOXVIA via the source codes, the following libraries are required. <br>
+If you use executable file, no dependencies are required. <br>
 
 - GPyOpt
 - matplotlib
 - pandas
 - Dash
-- Dash_bootstrap_components (v0.13.1)
+- Dash_bootstrap_components
 
 
 You can install the dependencies by:
 ```bash
 pip install -r requirements.txt
 ```
-
+<br>
 Note: <br>
-GPyOpt installed via pip has a bug in GPyOpt/core/evaluators/batch_local_penalization.py. <br>
-Please replace the code with the bug-fixed code that has been uploaded to the [GPyOpt repository](https://github.com/SheffieldML/GPyOpt).
+If you use BOXVIA by starting from the source code,  <br>
+the following two codes of [GPyOpt](https://github.com/SheffieldML/GPyOpt) need to be modified. <br>
+
+- GPyOpt/core/bo.py
+- GPyOpt/core/evaluators/batch_local_penalization.py
+
+Please replace these codes with the codes contained in src/GPyOpt_modified in this repository.
 
 ## Tutorial
 Please see video tutorials uploaded on YouTube. <br>
