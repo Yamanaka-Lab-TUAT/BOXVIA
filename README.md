@@ -46,7 +46,9 @@ Please replace these codes with the codes contained in src/GPyOpt_modified in th
 ## Tutorial
 Please see video tutorials uploaded on YouTube. <br>
 [Video tutorial for 1D function](https://www.youtube.com/watch?v=ljzGmVSf16U) <br>
-[Video tutorial for 5D function](https://www.youtube.com/watch?v=merYNmawvkw)
+[Video tutorial for 5D function](https://www.youtube.com/watch?v=merYNmawvkw) <br>
+
+Further detailes are described in our [paper](https://doi.org/10.1016/j.softx.2022.101019)
 
 ## License
 BSD License (3-clause BSD License)
