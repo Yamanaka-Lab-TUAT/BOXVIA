@@ -17,32 +17,56 @@ python main.py
 ```
 
 ## Dependencies 
-To start BOXVIA using the source codes, the following libraries are required. <br>
-If you use executable file, the dependencies are not necessary. <br>
+To start BOXVIA via the source codes, the following libraries are required. <br>
+If you use executable file, no dependencies are required. <br>
 
 - GPyOpt
 - matplotlib
 - pandas
 - Dash
-- Dash_bootstrap_components (v0.13.1)
+- Dash_bootstrap_components
 
 
 You can install the dependencies by:
 ```bash
 pip install -r requirements.txt
 ```
-
+<br>
 Note: <br>
-GPyOpt installed via pip has a bug in GPyOpt/core/evaluators/batch_local_penalization.py. <br>
-Please replace the code with the bug-fixed code that has been uploaded to the [GPyOpt repository](https://github.com/SheffieldML/GPyOpt).
+
+If you use BOXVIA by starting from the source code, the following two codes of
+[GPyOpt](https://github.com/SheffieldML/GPyOpt) need to be modified. <br>
+
+- GPyOpt/core/bo.py
+- GPyOpt/core/evaluators/batch_local_penalization.py
+
+Please replace these codes with the codes contained in src/GPyOpt_modified in this repository.
+
 
 ## Tutorial
 Please see video tutorials uploaded on YouTube. <br>
 [Video tutorial for 1D function](https://www.youtube.com/watch?v=ljzGmVSf16U) <br>
-[Video tutorial for 5D function](https://www.youtube.com/watch?v=merYNmawvkw)
+[Video tutorial for 5D function](https://www.youtube.com/watch?v=merYNmawvkw) <br>
+
+Further detailes are described in our [paper](https://doi.org/10.1016/j.softx.2022.101019).
 
 ## License
 BSD License (3-clause BSD License)
+
+## Citation
+```bash
+@article{ISHII2022101019,
+title = {BOXVIA: Bayesian optimization executable and visualizable application},
+journal = {SoftwareX},
+volume = {18},
+pages = {101019},
+year = {2022},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2022.101019},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711022000243},
+author = {Akimitsu Ishii and Ryunosuke Kamijyo and Akinori Yamanaka and Akiyasu Yamamoto},
+}
+```
 
 ## Developers' Affiliation
 [Yamanaka Research Group @ TUAT](http://web.tuat.ac.jp/~yamanaka/)
