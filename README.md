@@ -51,5 +51,20 @@ Please see video tutorials uploaded on YouTube. <br>
 ## License
 BSD License (3-clause BSD License)
 
+## Citation
+```bash
+@article{ISHII2022101019,
+title = {BOXVIA: Bayesian optimization executable and visualizable application},
+journal = {SoftwareX},
+volume = {18},
+pages = {101019},
+year = {2022},
+issn = {2352-7110},
+doi = {https://doi.org/10.1016/j.softx.2022.101019},
+url = {https://www.sciencedirect.com/science/article/pii/S2352711022000243},
+author = {Akimitsu Ishii and Ryunosuke Kamijyo and Akinori Yamanaka and Akiyasu Yamamoto},
+}
+```
+
 ## Developers' Affiliation
 [Yamanaka Research Group @ TUAT](http://web.tuat.ac.jp/~yamanaka/)
