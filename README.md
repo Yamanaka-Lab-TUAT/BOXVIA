@@ -51,7 +51,7 @@ Please see video tutorials uploaded on YouTube. <br>
 [Video tutorial for 1D function](https://www.youtube.com/watch?v=ljzGmVSf16U) <br>
 [Video tutorial for 5D function](https://www.youtube.com/watch?v=merYNmawvkw) <br>
 
-Further detailes are described in our [paper](https://doi.org/10.1016/j.softx.2022.101019).
+Further detailes are described in our [paper](https://doi.org/10.1016/j.softx.2022.101019). <br>
 Text-based tutorial has been posted on [Qiita](https://qiita.com/akmt-ishii/items/1d5354a1f1f75556281a) (in Japanese)..
 
 ## License
