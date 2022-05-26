@@ -53,6 +53,8 @@ Please see video tutorials uploaded on YouTube. <br>
 
 Further detailes are described in our [paper](https://doi.org/10.1016/j.softx.2022.101019).
 
+A Japanese explanation about BOXVIA is posted on [Qiita](https://qiita.com/akmt-ishii/items/1d5354a1f1f75556281a).
+
 ## License
 BSD License (3-clause BSD License)
 
