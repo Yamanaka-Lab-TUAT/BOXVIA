@@ -37,7 +37,7 @@ pip install -r requirements.txt
 <br>
 Note: <br>
 
-If you use BOXVIA by starting from the source code, the following two codes of
+If you start BOXVIA via the source codes, the following two codes of
 [GPyOpt](https://github.com/SheffieldML/GPyOpt) need to be modified. <br>
 
 - GPyOpt/core/bo.py
