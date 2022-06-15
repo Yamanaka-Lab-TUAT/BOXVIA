@@ -48,8 +48,12 @@ Please replace these codes with the codes contained in src/GPyOpt_modified in th
 
 ## Tutorial
 Please see video tutorials uploaded on YouTube. <br>
-[Video tutorial for 1D function](https://www.youtube.com/watch?v=ljzGmVSf16U) <br>
-[Video tutorial for 5D function](https://www.youtube.com/watch?v=merYNmawvkw) <br>
+
+Video tutorial for 1D function <br>
+[![Video tutorial 1D](https://user-images.githubusercontent.com/92300126/173714183-350ed39b-7d02-431b-9260-9679fda73da8.jpg)](https://www.youtube.com/watch?v=ljzGmVSf16U)
+
+Video tutorial for 5D function <br>
+[![Video tutorial 5D](https://user-images.githubusercontent.com/92300126/173714468-2f804c6c-7aa6-49c0-9141-fc5878f1ea10.jpg)](https://www.youtube.com/watch?v=merYNmawvkw) 
 
 Further detailes are described in our [paper](https://doi.org/10.1016/j.softx.2022.101019). <br>
 Text-based tutorial has been posted on [Qiita](https://qiita.com/akmt-ishii/items/1d5354a1f1f75556281a) (in Japanese).
