@@ -14,6 +14,11 @@ Extract the downloaded file and double-click on "BOXVIA" executable file. <br>
 The name of the executable is "BOXVIA.exe" on windows, "BOXVIA.app" on macOS, and "BOXVIA" on linux.
 
 ### For running source code
+**Notification!**
+We strongly recommend running BOXVIA via the executable file <br>
+because the application has not yet support the latest versions of dependencies. <br>
+If you run BOXVIA with its source code, carefully check the version of the dependencies.
+
  Start with
 ```bash
 python main.py
@@ -21,13 +26,13 @@ python main.py
 
 ## Dependencies 
 To start BOXVIA via the source codes, the following libraries are required. <br>
-If you use executable file, no dependencies are required. <br>
+**If you use executable file, no dependencies are required.** <br>
 
 - GPyOpt
 - matplotlib
 - pandas
-- Dash
-- Dash_bootstrap_components
+- Dash == 2.0.0
+- Dash_bootstrap_components == 1.0.0
 
 
 You can install the dependencies by:
