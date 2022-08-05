@@ -14,7 +14,7 @@ Extract the downloaded file and double-click on "BOXVIA" executable file. <br>
 The name of the executable is "BOXVIA.exe" on windows, "BOXVIA.app" on macOS, and "BOXVIA" on linux.
 
 ### For running source code
-**Notification!**
+**Notification!** <br>
 We strongly recommend running BOXVIA via the executable file <br>
 because the application has not yet support the latest versions of dependencies. <br>
 If you run BOXVIA with its source code, carefully check the version of the dependencies.
