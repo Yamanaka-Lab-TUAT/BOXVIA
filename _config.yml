@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate<!-- Google tag (gtag.js) -->
+theme: jekyll-theme-slate
 google_analytics: UA-210890054-1
 plugins:
   - jekyll-sitemap
